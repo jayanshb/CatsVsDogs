@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/jayanshbhartiya/Desktop/Internship/tensorflow/Sentdex/dogsvscats-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/Users/jayanshbhartiya/Desktop/Internship/tensorflow/Sentdex/dogsvscats-0.001-2conv-basic.model"
