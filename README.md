@@ -1,5 +1,5 @@
 # CatsVsDogs image binary classification 
-Using Python, I have trained a Convolutional Neural Netowrk on a set of training data. 
+Using Python, I have trained a Convolutional Neural Network on a set of training data. 
 
 # Key Features of the Convolutional Neural Network
 1. Multiple layers of max-pooling, convolution 
